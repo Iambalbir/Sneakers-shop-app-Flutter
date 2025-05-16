@@ -1,8 +1,7 @@
 # Sneakers shop application (Nike Shoes App) using Flutter + Animations
 ![Untitled-1](https://user-images.githubusercontent.com/91388754/232321151-37b8be99-71fe-4eb8-9125-d96a36aa283f.png)
 
-## Tutorial Video on Youtube:
-* [YOUTUBE](https://youtu.be/kHxfswX20Fk)
+
 
 ## Descriptions
 🤖👋 Hey there!
@@ -20,13 +19,4 @@ Overall, I'm pretty excited about how this project turned out and I hope you wil
 ![Screenshot (610)](https://user-images.githubusercontent.com/91388754/232321627-e2c47889-43b4-4116-9cbd-803ab1983e39.png)
 ![Screenshot (611)](https://user-images.githubusercontent.com/91388754/232321633-48f37b05-a178-4066-bfc1-76f735e8b170.png)
 ![Screenshot (612)](https://user-images.githubusercontent.com/91388754/232321641-9f1ea5a0-eaac-408a-bde9-c7e0a54bb6fa.png)
-
-## This link allows you to support me, and I really appreciate your help:
-* [SUPPORT](https://www.buymeacoffee.com/AmirBayat)
-
-## My Socials:
-* [INSTAGRAM](https://www.instagram.com/codewithflexz)
-* [YOUTUBE]( https://www.youtube.com/c/ProgrammingWithFlexZ)
-* [CONTACT ME](https://amirbayat.dev@gmail.com)
-* [FIND MORE](https://zaap.bio/CodeWithFlexz)
 
